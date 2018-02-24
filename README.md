@@ -1,2 +1,3 @@
-https://hiwords.github.io
-https://blog.jsdoit.top
+https://hiwords.github.io  
+
+http://blog.jsdoit.top
